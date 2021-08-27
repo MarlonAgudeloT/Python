@@ -1,0 +1,584 @@
+<div class="div-resultados">
+<span class="div-resultados-busqueda-titulo div-resultados-titulo">Resultados</span>
+<div>
+						La búsqueda devuelve <strong>1.049</strong> resultados
+						
+					</div>
+<!--<br/>
+					<div>
+						<ul>
+							<li><img src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" class="leyenda-tipoFuncionario-busqueda" />  Servidores</li>
+							<li><img src="https://www.funcionpublica.gov.co/documents/35162728/35691153/contratistas.png/3d28b97a-d67e-927f-dc05-6d0dc2d4753a?t=1561068434386" class="leyenda-tipoFuncionario-busqueda" /> Contratistas</li>
+						</ul>
+					</div>-->
+<!--<div class="pagination"><ul class="pagination"><li class="prev"><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=30&amp;max=10">&laquo;</a></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=0&amp;max=10" class="step">1</a></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=10&amp;max=10" class="step">2</a></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=20&amp;max=10" class="step">3</a></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=30&amp;max=10" class="step">4</a></li><li class="active"><span>5</span></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=50&amp;max=10" class="step">6</a></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=60&amp;max=10" class="step">7</a></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=70&amp;max=10" class="step">8</a></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=80&amp;max=10" class="step">9</a></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=90&amp;max=10" class="step">10</a></li><li class="disabled"><span>...</span></li><li><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=1040&amp;max=10" class="step">105</a></li><li class="next"><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=50&amp;max=10" class="step">&raquo;</a></li></ul></div>-->
+<ul class="pagination"><li class="prev"><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=30&amp;max=10">«</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=0&amp;max=10">1</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=10&amp;max=10">2</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=20&amp;max=10">3</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=30&amp;max=10">4</a></li><li class="active"><span>5</span></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=50&amp;max=10">6</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=60&amp;max=10">7</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=70&amp;max=10">8</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=80&amp;max=10">9</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=90&amp;max=10">10</a></li><li class="disabled"><span>...</span></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=1040&amp;max=10">105</a></li><li class="next"><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=50&amp;max=10">»</a></li></ul>
+<table class="table table-striped table-hover">
+<tbody>
+<tr class="odd">
+<td class="center-text columna-foto">
+<!--<img class="fotoConsulta" src="/dafpIndexerBHV/images/nopicture.png">-->
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M54123-0020-4/view">
+										CRISTINA POSADA VARGAS
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										cposadav@dane.gov.co
+										 / 
+										5978300 ext 2361
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="even">
+<td class="center-text columna-foto">
+<!--<img class="fotoConsulta" src="/dafpIndexerBHV/images/nopicture.png">-->
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M622620-0020-4/view">
+										DAISSY RODRIGUEZ LEYTON
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										drodriguezl@dane.gov.co
+										 / 
+										5978300 ext 2361
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="odd">
+<td class="center-text columna-foto">
+<img alt="Foto de DARIO CORREA SÁNCHEZ" class="fotoConsulta" src="https://www.funcionpublica.gov.co/CCB_N_FOTO/M1081999/004d669081a7786d75bca3f3323aff7ed600cb8939c12a2fbc6435f9d2d05e0f4bfe0d95c55fd42653815aaafa56111bf82ff8316ce1231c2f54e14406b77773.JPG"/>
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M1081999-0020-4/view">
+										DARIO CORREA SÁNCHEZ
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										dcorreas@dane.gov.co
+										 / 
+										5978300 ext 2361
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="even">
+<td class="center-text columna-foto">
+<!--<img class="fotoConsulta" src="/dafpIndexerBHV/images/nopicture.png">-->
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M532034-0020-4/view">
+										DAYANA CUBIDES LEYTON
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										dcubidesl@dane.gov.co
+										 / 
+										5978300 EXT 2599
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="odd">
+<td class="center-text columna-foto">
+<img alt="Foto de DAYANA   MONTOYA QUIROZ" class="fotoConsulta" src="https://www.funcionpublica.gov.co/CCB_N_FOTO/M1073320/ea0841d53722d4266c760133dbfbdaedaea6fc0a52698c7acb8872bda036cceb56cf41c72c26b10f9f2d02252bbcba40daf98c501673a562c8912439d2a96e96.JPG"/>
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M1073320-0020-4/view">
+										DAYANA   MONTOYA QUIROZ
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										DMONTOYAQ@DANE.GOV.CO
+										 / 
+										5978300 ext 2361
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="even">
+<td class="center-text columna-foto">
+<img alt="Foto de DIANA  PATIÑO" class="fotoConsulta" src="https://www.funcionpublica.gov.co/CCB_N_FOTO/M78554/83cd0831b9b8dd94f044c1074f3268c01fbdc9940442286081554f4706eaecd9cfadc7a0e991c4ad72fbec3927a0afc62e3c0ae2f0469af167d7851b52cba33c.jpg"/>
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M78554-0020-4/view">
+										DIANA  PATIÑO
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										contacto@dane.gov.co; capenam@dane.gov.co
+										 / 
+										5978300 ext 2361
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="odd">
+<td class="center-text columna-foto">
+<img alt="Foto de EDGAR FORERO MEDINA" class="fotoConsulta" src="https://www.funcionpublica.gov.co/CCB_N_FOTO/M109878/b39b0b77f719316d6eba1f55ab8d8347e03a7cbc6e8d608008cf97f05c99a29abc4d0b1d8d81f17812e03bc1d03760ffdf1da83a4a5a1d47bcea48e0031690d8.jpg"/>
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M109878-0020-4/view">
+										EDGAR FORERO MEDINA
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										eforerom@dane.gov.co
+										 / 
+										5978300 ext 2361
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="even">
+<td class="center-text columna-foto">
+<img alt="Foto de EDUARDO JAIME PUENTES" class="fotoConsulta" src="https://www.funcionpublica.gov.co/CCB_N_FOTO/M26580/c0d85bee54e88b30f70ae9f37eb79364dec6f50fb0e60e511dd2ffa03b8dbf9aa4dc09886f4ab11ab95789f837bb5981bf6de66c5d5ba9ad0bc4588f18dda373.jpg"/>
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M26580-0020-4/view">
+										EDUARDO JAIME PUENTES
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										ejaimep@dane.gov.co
+										 / 
+										5978300 ext 2361
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="odd">
+<td class="center-text columna-foto">
+<img alt="Foto de EFRAIN GONZALEZ FRESNEDA" class="fotoConsulta" src="https://www.funcionpublica.gov.co/CCB_N_FOTO/M530979/b9ac3735ce0de3e81e183306168d8c6c655d851b4ed7239b53110dd575713bb3fed4a3ed5f3f56aaa6d732cec03d75b89187efc07d4c215187d76a10eb5d48b3.jpg"/>
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M530979-0020-4/view">
+										EFRAIN GONZALEZ FRESNEDA
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										egonzalezf@dane.gov.co
+										 / 
+										5978300 ext 2361
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+<tr class="even">
+<td class="center-text columna-foto">
+<img alt="Foto de ELENA RODRIGUEZ YATE" class="fotoConsulta" src="https://www.funcionpublica.gov.co/CCB_N_FOTO/M77161/6b88984bbcf9e13d63f93f0ac553cac924c8cc5a74e0e3276a09f9cc8960fdacb1550772f2d21bfcd7d995ed291c757030ea3ad9ace377934029a3c8fbb49823.jpg"/>
+</td>
+<td class="columna-datos">
+<span><a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M77161-0020-4/view">
+										ELENA RODRIGUEZ YATE
+										
+											<img alt="Icono para Servidor" class="leyenda-tipoFuncionario-busqueda" src="https://www.funcionpublica.gov.co/documents/35162728/35691153/servidores.png/9dbd1e6c-cb75-4ac9-0cd0-bed4177865a6?t=1561068435288" title="Servidor"/>
+<img alt="Icono para SIGEP 1" class="leyenda-icono-sigep-busqueda" src="https://www.funcionpublica.gov.co/documents/418537/2124665/icon_s1.png/89611c43-fedc-ed51-d540-df5d29122304?t=1599507279150" title="SIGEP 1"/>
+</a></span>
+<br/>
+<span>
+										Servidor Público
+									</span>
+<br/>
+<span>
+										DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADISTICA
+									</span>
+<br/>
+<span>
+										erodriguezy@dane.gov.co
+										 / 
+										5978300 EXT 3626
+										 / 
+										BOGOTÁ - Bogotá D.C
+									</span>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+<ul class="pagination"><li class="prev"><a href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=30&amp;max=10">«</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=0&amp;max=10">1</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=10&amp;max=10">2</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=20&amp;max=10">3</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=30&amp;max=10">4</a></li><li class="active"><span>5</span></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=50&amp;max=10">6</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=60&amp;max=10">7</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=70&amp;max=10">8</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=80&amp;max=10">9</a></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=90&amp;max=10">10</a></li><li class="disabled"><span>...</span></li><li><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=1040&amp;max=10">105</a></li><li class="next"><a class="step" href="/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=&amp;offset=50&amp;max=10">»</a></li></ul>
+<script type="text/javascript">
+						$(document).ready(function () {
+							cantidadFiltrosInicial = 10;
+							var optionsFiltroDpto = $("#listFiltroDpto li").map(function() {
+							    return $(this).text().trim();
+							}).get();
+							var optionsFiltroEntidad = $("#listFiltroEntidad li").map(function() {
+							    return $(this).text().trim();
+							}).get();
+							var optionsFiltroMun = $("#listFiltroMun li").map(function() {
+							    return $(this).text().trim();
+							}).get();
+							$("#inputFiltroDpto").autocomplete({
+								delay: 500,
+								source: function(request, response) {
+									var matcher = new RegExp($.ui.autocomplete.escapeRegex(request.term), "i");
+									response($.grep(optionsFiltroDpto, function(value) {
+										value = value.label || value.value || value;
+										return matcher.test(value) || matcher.test(normalize(value));
+									}));
+								},
+								select: function (event, ui) {
+									//console.log(JSON.stringify(ui));
+									if (ui.item) {
+										var url = getUrlForFiltro("1", ui.item.value);
+										window.location = url;
+									}
+						        }
+							});
+							$("#inputFiltroEntidad").autocomplete({
+								delay: 500,
+								source: function(request, response) {
+									var matcher = new RegExp($.ui.autocomplete.escapeRegex(request.term), "i");
+									response($.grep(optionsFiltroEntidad, function(value) {
+										value = value.label || value.value || value;
+										return matcher.test(value) || matcher.test(normalize(value));
+									}));
+								},
+								select: function (event, ui) {
+									//console.log(JSON.stringify(ui));
+									if (ui.item) {
+										var nombreFiltro = formatNombreFiltro(ui.item.value);
+										var codEntidad = $("#codEntidad_" + nombreFiltro).val();
+										var url = getUrlForFiltro("2", codEntidad);
+										window.location = url;
+									}
+						        }
+							});
+							$("#listFiltroMun").autocomplete({
+								delay: 500,
+								source: function(request, response) {
+									var matcher = new RegExp($.ui.autocomplete.escapeRegex(request.term), "i");
+									response($.grep(optionsFiltroMun, function(value) {
+										value = value.label || value.value || value;
+										return matcher.test(value) || matcher.test(normalize(value));
+									}));
+								},
+								select: function (event, ui) {
+									//console.log(JSON.stringify(ui));
+									if (ui.item) {
+										var url = getUrlForFiltro("3", ui.item.value);
+										window.location = url;
+									}
+						        }
+							});
+							/*$('#listFiltroDpto').hideMaxListItems({
+								'max':10,
+								'speed':250,
+								'moreText':'Más ([COUNT])',
+								'lessText':'Menos'
+							});
+							$('#listFiltroEntidad').hideMaxListItems({
+								'max':10,
+								'speed':250,
+								'moreText':'Más ([COUNT])',
+								'lessText':'Menos'
+							});
+							$('#listFiltroMun').hideMaxListItems({
+								'max':10,
+								'speed':250,
+								'moreText':'Más ([COUNT])',
+								'lessText':'Menos'
+							});*/
+							
+							// Solucion a las listas desplegables tomada de https://stackoverflow.com/questions/17736786/jquery-load-first-3-elements-click-load-more-to-display-next-5-elements
+							// Ejemplo funcional a 2018-08-30 http://jsfiddle.net/cse_tushar/6FzSb/2/
+							sizeLiFiltroDpto = $("#listFiltroDpto li").size();
+						    xFiltroDpto = cantidadFiltrosInicial;
+						    itemsNotShownFiltroDpto = sizeLiFiltroDpto - xFiltroDpto;
+						    $('#loadMoreFiltroDpto').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroDpto + ")");
+						    $('#listFiltroDpto li:lt(' + xFiltroDpto + ')').show();
+						    if (sizeLiFiltroDpto < cantidadFiltrosInicial) {
+						    	$('#loadMoreFiltroDpto').hide();
+						    }
+						    $('#loadMoreFiltroDpto').click(function () {
+							    loadMoreFiltroDpto();
+						    });
+						    $('#loadMoreFiltroDpto').keypress(function (event) {
+						    	if (event.which == 13) {
+							    	loadMoreFiltroDpto();
+						    	}
+						    });
+						    $('#showLessFiltroDpto').click(function () {
+						    	showLessFiltroDpto();
+						    });
+						    $('#showLessFiltroDpto').keypress(function (event) {
+						    	if (event.which == 13) {
+						    		showLessFiltroDpto();
+						    	}
+						    });
+
+							sizeLiFiltroEntidad = $("#listFiltroEntidad li").size();
+						    xFiltroEntidad = cantidadFiltrosInicial;
+						    itemsNotShownFiltroEntidad = sizeLiFiltroEntidad - xFiltroEntidad;
+						    $('#loadMoreFiltroEntidad').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroEntidad + ")");
+						    $('#listFiltroEntidad li:lt(' + xFiltroEntidad + ')').show();
+						    if (sizeLiFiltroEntidad < cantidadFiltrosInicial) {
+						    	$('#loadMoreFiltroEntidad').hide();
+						    }
+						    $('#loadMoreFiltroEntidad').click(function () {
+							    loadMoreFiltroEntidad();
+						    });
+						    $('#loadMoreFiltroEntidad').keypress(function (event) {
+						    	if (event.which == 13) {
+							    	loadMoreFiltroEntidad();
+						    	}
+						    });
+						    $('#showLessFiltroEntidad').click(function () {
+						    	showLessFiltroEntidad();
+						    });
+						    $('#showLessFiltroEntidad').keypress(function (event) {
+						    	if (event.which == 13) {
+						    		showLessFiltroEntidad();
+						    	}
+						    });
+						    
+						    sizeLiFiltroMun = $("#listFiltroMun li").size();
+						    xFiltroMun = cantidadFiltrosInicial;
+						    itemsNotShownFiltroMun = sizeLiFiltroMun - xFiltroMun;
+						    $('#loadMoreFiltroMun').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroMun + ")");
+						    $('#listFiltroMun li:lt(' + xFiltroMun + ')').show();
+						    if (sizeLiFiltroMun < cantidadFiltrosInicial) {
+						    	$('#loadMoreFiltroMun').hide();
+						    }
+						    $('#loadMoreFiltroMun').click(function () {
+							    loadMoreFiltroMun();
+						    });
+						    $('#loadMoreFiltroMun').keypress(function (event) {
+						    	if (event.which == 13) {
+							    	loadMoreFiltroMun();
+						    	}
+						    });
+						    $('#showLessFiltroMun').click(function () {
+						    	showLessFiltroMun();
+						    });
+						    $('#showLessFiltroMun').keypress(function (event) {
+						    	if (event.which == 13) {
+						    		showLessFiltroMun();
+						    	}
+						    });
+						});
+						
+						function loadMoreFiltroDpto() {
+					    	xFiltroDpto = (xFiltroDpto + cantidadFiltrosInicial <= sizeLiFiltroDpto) ? xFiltroDpto + cantidadFiltrosInicial : sizeLiFiltroDpto;
+					    	itemsNotShownFiltroDpto = sizeLiFiltroDpto - xFiltroDpto;
+					        $('#listFiltroDpto li:lt(' + xFiltroDpto + ')').show();
+					    	$('#loadMoreFiltroDpto').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroDpto + ")");
+					        $('#showLessFiltroDpto').show();
+					        if (xFiltroDpto == sizeLiFiltroDpto) {
+						        $('#loadMoreFiltroDpto').hide();
+						    }
+					    }
+					    
+					    function showLessFiltroDpto() {
+					    	xFiltroDpto = (xFiltroDpto - cantidadFiltrosInicial < cantidadFiltrosInicial) ? cantidadFiltrosInicial : xFiltroDpto - cantidadFiltrosInicial;
+					    	itemsNotShownFiltroDpto = sizeLiFiltroDpto - xFiltroDpto;
+					        $('#listFiltroDpto li').not(':lt(' + xFiltroDpto + ')').hide();
+					        $('#loadMoreFiltroDpto').show();
+					        $('#loadMoreFiltroDpto').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroDpto + ")");
+					        $('#showLessFiltroDpto').show();
+					        if (xFiltroDpto == cantidadFiltrosInicial){
+					            $('#showLessFiltroDpto').hide();
+					        }
+					    }
+					    
+					    function loadMoreFiltroEntidad() {
+					    	xFiltroEntidad = (xFiltroEntidad + cantidadFiltrosInicial <= sizeLiFiltroEntidad) ? xFiltroEntidad + cantidadFiltrosInicial : sizeLiFiltroEntidad;
+					    	itemsNotShownFiltroEntidad = sizeLiFiltroEntidad - xFiltroEntidad;
+					        $('#listFiltroEntidad li:lt(' + xFiltroEntidad + ')').show();
+					    	$('#loadMoreFiltroEntidad').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroEntidad + ")");
+					        $('#showLessFiltroEntidad').show();
+					        if (xFiltroEntidad == sizeLiFiltroEntidad) {
+						        $('#loadMoreFiltroEntidad').hide();
+						    }
+					    }
+					    
+					    function showLessFiltroEntidad() {
+					    	xFiltroEntidad = (xFiltroEntidad - cantidadFiltrosInicial < cantidadFiltrosInicial) ? cantidadFiltrosInicial : xFiltroEntidad - cantidadFiltrosInicial;
+					    	itemsNotShownFiltroEntidad = sizeLiFiltroEntidad - xFiltroEntidad;
+					        $('#listFiltroEntidad li').not(':lt(' + xFiltroEntidad + ')').hide();
+					        $('#loadMoreFiltroEntidad').show();
+					        $('#loadMoreFiltroEntidad').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroEntidad + ")");
+					        $('#showLessFiltroEntidad').show();
+					        if (xFiltroEntidad == cantidadFiltrosInicial){
+					            $('#showLessFiltroEntidad').hide();
+					        }
+					    }
+					    
+					    function loadMoreFiltroMun() {
+					    	xFiltroMun = (xFiltroMun + cantidadFiltrosInicial <= sizeLiFiltroMun) ? xFiltroMun + cantidadFiltrosInicial : sizeLiFiltroMun;
+					    	itemsNotShownFiltroMun = sizeLiFiltroMun - xFiltroMun;
+					        $('#listFiltroMun li:lt(' + xFiltroMun + ')').show();
+					    	$('#loadMoreFiltroMun').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroMun + ")");
+					        $('#showLessFiltroMun').show();
+					        if (xFiltroMun == sizeLiFiltroMun) {
+						        $('#loadMoreFiltroMun').hide();
+						    }
+					    }
+					    
+					    function showLessFiltroMun() {
+					    	xFiltroMun = (xFiltroMun - cantidadFiltrosInicial < cantidadFiltrosInicial) ? cantidadFiltrosInicial : xFiltroMun - cantidadFiltrosInicial;
+					    	itemsNotShownFiltroMun = sizeLiFiltroMun - xFiltroMun;
+					        $('#listFiltroMun li').not(':lt(' + xFiltroMun + ')').hide();
+					        $('#loadMoreFiltroMun').show();
+					        $('#loadMoreFiltroMun').html("<i class=\"fas fa-angle-double-down\"></i> Más (" + itemsNotShownFiltroMun + ")");
+					        $('#showLessFiltroMun').show();
+					        if (xFiltroMun == cantidadFiltrosInicial){
+					            $('#showLessFiltroMun').hide();
+					        }
+					    }
+
+						function getUrlForFiltro(tipoFiltro, value) {
+							//alert("value " + value);
+							if (tipoFiltro !== "2") {
+								var parentesisIndex = value.indexOf("(");
+								value = value.substring(0, parentesisIndex).trim();
+								//value = value.split(' ').join('+');
+							}
+							//console.log("value " + value);
+							var url = null;
+							if (tipoFiltro === "1") {
+								url = "/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=VALOR_REEMPLAZAR&amp;entidadSeleccionado=&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=";
+							}
+							else if (tipoFiltro === "2") {
+								url = "/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=VALOR_REEMPLAZAR&amp;munSeleccionado=&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=";
+							}
+							else if (tipoFiltro === "3") {
+								url = "/dafpIndexerBHV/?find=FindNext&amp;query=dane&amp;dptoSeleccionado=&amp;entidadSeleccionado=&amp;munSeleccionado=VALOR_REEMPLAZAR&amp;tipoAltaSeleccionado=Servidor+P%C3%BAblico&amp;bloquearFiltroDptoSeleccionado=&amp;bloquearFiltroEntidadSeleccionado=&amp;bloquearFiltroMunSeleccionado=&amp;bloquearFiltroTipoAltaSeleccionado=";
+							}
+							url = url.replace("VALOR_REEMPLAZAR", value);
+							var re = new RegExp("&amp;", 'g');
+							url = url.replace(re, "&");
+							//console.log("url " + url)
+							return url;
+						}
+						
+						function formatNombreFiltro(value) {
+							var parentesisIndex = value.indexOf("(");
+							value = value.substring(0, parentesisIndex).trim();
+							value = value.split(' ').join('');
+							return value;
+						}
+					</script>
+</div>
