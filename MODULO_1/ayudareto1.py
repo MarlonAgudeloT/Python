@@ -1,5 +1,0 @@
-#Ayuda para el reto
-
-import random
-
-print(random.randrange(0,5))
