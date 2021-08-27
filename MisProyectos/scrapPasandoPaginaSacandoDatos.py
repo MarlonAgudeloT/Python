@@ -62,12 +62,12 @@ findMails(datos1) # EJECUTAMOS LA FUNCION PARA QUE BUSQUE Y AGREGUE LOS DATOS A 
 #ESTO SE HACE CON PANDAS Y MANEJO DE DATAFRAMES
 #PARA GUARDAR EN UN ARCHIVO CSV
 
-patron = r'[a-zA-Z0-9._%+-]+@[a-zA-z0-9.-]+.[a-z]{2,}'
+"""patron = r'[a-zA-Z0-9._%+-]+@[a-zA-z0-9.-]+.[a-z]{2,}'
 
 coincidencia = re.findall(patron,emails)
-print(coincidencia)
+print(coincidencia)"""
 
-df = pd.DataFrame({"elementos":coincidencia})
+df = pd.DataFrame({"elementos":emails})
 
 df.to_csv('emails.csv',mode = 'a', index = False, header = False)
 
